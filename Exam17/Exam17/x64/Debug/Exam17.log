@@ -1,0 +1,3 @@
+﻿  Exam17.cpp
+D:\Projects\Exam17\Exam17\Exam17.cpp(18,1): warning C4326: return type of 'main' should be 'int' instead of 'void'
+  Exam17.vcxproj -> D:\Projects\Exam17\x64\Debug\Exam17.exe
